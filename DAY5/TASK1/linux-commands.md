@@ -8,5 +8,7 @@
  8. sudo cp backup.txt /src/main
  9. sudo cp -r prac prac-backup
  10. whatis cp
- ![alt text](image-1.png)
+
+
+![alt text](image-1.png)
 ![alt text](image.png)
