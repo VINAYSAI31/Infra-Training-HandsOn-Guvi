@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Unit_Price_INR,Total_Amount_INR,City,Payment_Method,Order_Status,Order_Date
+1001,MI Jersey,Apparel,2.0,1499.0,2998.0,Mumbai,UPI,Delivered,2026-04-12
+1002,MI Cap,Accessories,1.0,599.0,599.0,Pune,Card,Delivered,2026-04-13
+1003,MI Jersey,Apparel,2.0,1499.0,2998.0,Mumbai,UPI,Delivered,2026-04-12
+1004,MI Flag,Fan Merchandise,3.0,299.0,897.0,Navi Mumbai,Cash,Shipped,2026-04-15
+1005,MI Mug,Home & Living,1.0,,399.0,Thane,UPI,Processing,2026-04-16
+1006,MI Hoodie,Apparel,,2199.0,2199.0,Mumbai,Card,Delivered,2026-04-17
+1007,MI Keychain,Accessories,4.0,199.0,,Pune,UPI,Delivered,2026-04-18
+1008,MI Jersey,apparel ,1.0,1499.0,1499.0,Mumbai ,UPI,Delivered,2026-04-19
+1009,MI Signed Bat,Collectibles,1.0,999999.0,999999.0,Delhi,Card,Delivered,2026-04-20
+1010,MI Socks,Apparel,-2.0,249.0,-498.0,Chennai,UPI,Delivered,not-a-date
