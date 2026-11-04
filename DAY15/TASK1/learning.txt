@@ -1,0 +1,4 @@
+- stat filename -> gives us the user and group of the file
+- chgrp "$(id -gn)" permission.txt -> assign the default group
+- sudo -l -> what actions we can do 
+- chown newuser:grp filename -> assign a new user to the file

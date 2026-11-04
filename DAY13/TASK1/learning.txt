@@ -1,0 +1,4 @@
+Linux permissions
+-----------------
+* umask -> default number which indicate the permission used when creating a new file/ folder
+* namei -l ~prac2/demo2.txt -> gives permissions and roles for every directory and folder in the given path

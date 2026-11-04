@@ -1,0 +1,6 @@
+- chmod used to edit the permissions for a file or directory
+- r->4
+  w->2
+  x->1
+
+user,group,owner
