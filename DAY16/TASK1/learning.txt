@@ -1,0 +1,4 @@
+for troubleshoting
+- check weather u have that permission or not
+  "test -w permission.txt && echo writable"
+- getfacl returns ACL of a particular file
